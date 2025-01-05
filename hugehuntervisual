@@ -1,7 +1,7 @@
 local Pets = require(game:GetService("ReplicatedStorage").Library.Directory.Pets)
 
-local fromPet = "Nutcracker Squirrel"
-    local toPet = "Huge Nutcracker Squirrel"
+local fromPet = "Doodle Crocodile"
+    local toPet = "Huge Chroma Doodle Axolotl"
 
     if fromPet == "" or toPet == "" then
         warn("Hey! Please Fill in Both 'From Pet' and 'To Pet' Names!")
